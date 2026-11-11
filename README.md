@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mehatab20-181717?style=for-the-badge&logo=github)](https://github.com/Mehatab20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/mehatab-sirajudeen-042966326])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehatab-sirajudeen-042966326)
 [![Gmail](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehatabsirajudeen@gmail.com)
 
 📍 Coimbatore, Tamil Nadu, India
@@ -325,7 +325,7 @@ I'm always open to learning opportunities, internships, technical discussions, p
 ### Let's build something meaningful together! 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Mehatab20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mehatab-sirajudeen-042966326))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehatab-sirajudeen-042966326)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:mehatabsirajudeen@gmail.com)
 
 **Thanks for visiting my profile!**
