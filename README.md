@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mehatab20-181717?style=for-the-badge&logo=github)](https://github.com/Mehatab20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/mehatab-sirajudeen-042966326])
 [![Gmail](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehatabsirajudeen@gmail.com)
 
 📍 Coimbatore, Tamil Nadu, India
@@ -210,13 +210,13 @@ Selected as a scholar under the **Schneider Electric EmpowerHer Scholarship** in
 Recognized for securing first place in the Business Model Startup Category at an event organized by the ECE Department and Institution's Innovation Council (IIC), SKCET.
 
 ### 🎓 NPTEL Course Recognition
-Earned Silver Badges in two NPTEL courses and received recognition in the **top 5% highest-performing tier**.
+Earned Silver Badges in three NPTEL courses Python for Data Science, Ethical Hacking and in NLP received recognition in the **top 5% highest-performing tier**.
 
 ### 📜 Additional Certifications & Learning
 - IIRS Remote Sensing — Grade A.
-- Python for Data Science — Silver Badge.
 - Cisco Networking Basics.
-- Juno UI/UX Certification.
+- Operating System Foundations.
+- Programming Fundamentals in Kotlin.
 - Infosys Springboard and AWS Cloud learning journey.
 
 ---
@@ -325,7 +325,7 @@ I'm always open to learning opportunities, internships, technical discussions, p
 ### Let's build something meaningful together! 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Mehatab20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mehatab-sirajudeen-042966326))
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:mehatabsirajudeen@gmail.com)
 
 **Thanks for visiting my profile!**
