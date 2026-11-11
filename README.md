@@ -188,7 +188,7 @@ A full-stack software engineering project focused on user management, authentica
 
 ### AI & Data Science Intern — Dzign Media
 
-**[Add Internship Month and Year]**
+**[May 2026 - June 2026]**
 
 Worked on Machine Learning and data science-related tasks, gaining practical exposure to predictive modelling and data processing.
 
